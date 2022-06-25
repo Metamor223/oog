@@ -1,0 +1,21 @@
+header{
+background-color: black;
+max-width: 1920px;
+height: 100px;
+}
+
+.wrapper{
+margin-left: auto;
+margin-right: auto;
+background-color: black;
+height: 100px;
+max-width: 1300px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.wrapper h1{
+	color: white;
+font-size: 60px;
+}

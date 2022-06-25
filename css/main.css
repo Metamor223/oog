@@ -1,0 +1,401 @@
+main{
+background-color: black;
+max-width: 1920px;
+}
+
+.artem{
+border-radius: 15px;
+margin-left: auto;
+margin-right: auto;
+background-image: url("../assets/eculizer.jpg");
+height: 550px;
+max-width: 1200px;
+}
+
+.artem h1{
+display: flex;
+justify-content: center;
+margin: 0;
+padding-top: 20px;
+color: white;
+}
+
+.container{
+display: flex;
+max-width: 1200px;
+height: 95%;
+}
+
+.wrapper1{
+border-radius: 10px;
+flex-wrap: wrap;
+display: flex;
+height: 100%;
+max-width: 450px;
+max-height: 200px;
+margin: 100px 0 0 30px;
+background-color: white;
+}
+
+.wrapper1 p{
+	padding: 0 25px 0 25px;
+	margin-bottom: 0;
+	width: 600px;
+	height: 100px;
+	color: black;
+}         
+
+.ima{
+margin: 0 0 170px 30px;
+display: flex;
+width: 600px;
+height: 50px;
+}
+
+.twitch{
+	height: 50px;
+	width: 50px;
+	margin-right: 10px;
+}   
+
+.youtube{
+	height: 50px;
+	width: 50px;
+}
+
+.vk{
+	margin-left: 10px;
+	height: 50px;
+	width: 50px;
+}
+
+.art{
+	margin-left: 90px;
+	display: flex;
+	height: 400px;
+	width: 600px;
+}
+
+.arrow {  /*якорная ссылка*/
+background-color: white;
+border-radius: 50%;
+width:28px;
+height:28px;
+}
+
+.arrow:hover {
+background-color: grey;
+}
+
+.ayaz{
+margin-top: 20px;
+border-radius: 15px;
+margin-left: auto;
+margin-right: auto;
+background-image: url("../assets/dartwaider.jpg");
+max-width: 1200px;
+height: 700px;
+}
+
+.ayaz h1{
+padding-top: 30px;
+display: flex;
+justify-content: center;
+margin: 0;
+color: white;
+}
+
+.container1{
+max-width: 1200px;
+height: 95%;
+}
+
+.wrapper2{
+border-radius: 10px;
+margin-left: 30px;
+max-width: 500px;
+max-height: 100px;
+background-color: white;
+}
+
+.wrapper2 p{
+padding: 6px 0 6px 15px;
+max-width: 500px;
+margin-top: 70px;
+color: black;
+}
+
+.art1{
+display: flex;
+flex-wrap: nowrap;
+margin: 0 0 0 400px;
+}
+
+.dima{
+border-radius: 15px;
+margin-top: 20px;
+margin-left: auto;
+margin-right: auto;
+background-image: url("../assets/dima_bg.jpg");
+max-width: 1200px;
+height: 600px;
+}
+
+.dima h1{
+padding-top: 30px;
+display: flex;
+justify-content: center;
+margin: 0;
+color: black;
+}
+
+.container2{
+display: flex;
+max-width: 1200px;
+height: 95%;
+}
+
+.art2{
+margin: 0 0 0 30px;
+}
+
+.wrapper3{
+margin: 50px 0 0 70px;
+border-radius: 10px;
+background-color: white;
+max-height: 200px;
+max-width: 550px;
+}
+
+.wrapper3 p{
+margin: 0;
+padding: 0 10px 0 10px;
+max-width: 500px;
+padding-top: 20px;
+color:black;
+}
+
+.ima1{
+margin: 20px 0 0 260px;
+display: flex;
+width: 100px;
+height: 50px;
+}
+
+.maksim{
+margin-top: 20px;
+border-radius: 15px;
+background-image: url("../assets/maksim_bg.jpg");
+margin-left: auto;
+margin-right: auto;
+max-width: 1200px;
+height: 600px;
+}
+
+.maksim h1{
+	padding-top: 30px;
+color: white;	
+display: flex;
+justify-content: center;
+margin: 0;
+}
+
+.container3{
+display: flex;
+max-width: 1200px;
+height: 95%;
+}
+
+.art3{
+display: flex;
+flex-wrap: nowrap;
+margin: 0 0 0 30px;
+}
+
+.wrapper4{
+margin: 50px 30px 0 30px;
+max-width: 400px;
+max-height: 300px;
+background-color: white;
+border-radius: 10px;
+}
+
+.wrapper4 p{
+margin: 0;
+padding: 20px 0 0 20px;
+max-width: 500px;
+color:black;
+}
+
+.ima2{
+margin: 20px 0 0 260px;
+display: flex;
+width: 100px;
+height: 50px;
+}
+
+.ivan{
+border-radius: 15px;
+margin-top: 20px;
+margin-left: auto;	
+margin-right: auto;
+max-width: 1200px;
+height: 600px;
+background-image: url(../assets/ivan_bg.jpg);
+}
+
+.ivan h1{
+padding-top: 30px;
+color: white;	
+display: flex;
+justify-content: center;
+margin: 0;
+}
+
+.container4{
+max-width: 1200px;
+height: 95%;
+}
+
+.wrapper5{
+margin-top: 20px;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+background-color: white;
+max-width: 1140px;
+border-radius: 10px;
+height: 60px;
+align-items: center;
+}
+
+.wrapper5 p{
+padding-left: 20px;
+}
+
+.ima3{
+margin-left: 30px;
+display: flex;
+width: 100px;
+height: 50px;
+}
+
+.art4{
+justify-content: center;
+display: flex;
+align-items: center;
+}
+
+.kolya{
+margin-top: 20px;
+border-radius: 15px;
+background-image: url("../assets/kolya_bg.jpg");
+margin-left: auto;
+margin-right: auto;
+max-width: 1200px;
+height: 600px;
+}
+
+.kolya h1{
+color: white;
+display: flex;
+justify-content: center;
+padding-top: 30px;
+}
+
+.container5{
+max-width: 1200px;
+height: 95%;
+display: flex;
+}
+
+.wrapper6{
+border-radius: 10px;
+margin-left: 30px;
+max-width: 500px;
+max-height: 100px;
+background-color: white;
+}
+
+.wrapper6 p{
+padding: 0 0 5px 10px;
+}
+
+.kirill{
+margin-top: 20px;
+border-radius: 15px;
+background-image: url("../assets/kirill_bg.jpg");
+margin-left: auto;
+margin-right: auto;
+max-width: 1200px;
+height: 600px;
+}
+
+.kirill h1{
+color: white;
+display: flex;
+justify-content: center;
+padding-top: 30px;
+}
+
+.container6{
+max-width: 1200px;
+height: 95%;
+display: flex;
+}
+
+.wrapper7{
+border-radius: 10px;
+margin-left: 30px;
+max-width: 500px;
+max-height: 150px;
+background-color: white;
+}
+
+.wrapper7 p{
+padding: 0 0 5px 15px;
+}
+
+.wrapper7 a{
+margin-left: 430px;
+}
+
+.ali{
+margin-top: 20px;
+border-radius: 15px;
+background-image: url("../assets/ali_bg.jpg");
+margin-left: auto;
+margin-right: auto;
+max-width: 1200px;
+height: 600px;
+}
+
+.ali h1{
+color: white;
+display: flex;
+justify-content: center;
+padding-top: 30px;
+}
+
+.container7{
+max-width: 1200px;
+height: 95%;
+display: flex;
+}
+
+.wrapper8{
+border-radius: 10px;
+margin: 100px 0 0 30px;
+max-width: 500px;
+max-height: 170px;
+background-color: white;
+}
+
+.wrapper8 p{
+padding: 0 0 5px 15px;
+}
+
+.art7{
+display: flex;
+margin-bottom: 110px;
+}
